@@ -1,4 +1,5 @@
 //name :mohit fulkar
+//college :imcc
 class Factorial{
     public int fact(n){
         if(n==0 || n==1){
